@@ -5,6 +5,11 @@ background-color: rgb(28, 160, 174);
 
 .titulo {
 
+    text-align: center;
+
+    font-size: 2em;
+
+    font-weight: bolder;
   
 }
 
