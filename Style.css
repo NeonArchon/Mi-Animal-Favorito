@@ -1,5 +1,5 @@
 body{
-background-color: rgb(28, 160, 174);
+background-color: rgb(13, 213, 147);
 
 }
 
@@ -13,13 +13,17 @@ background-color: rgb(28, 160, 174);
   
 }
 
-#interseccion{
 
-    
-}
+div.card {
 
-#card bg-info{
-
-    border: black solid 5px;
+   background-color: rgb(2, 170, 114);
 
 }
+
+.carousel-control-prev,
+    .carousel-control-next,
+        .carousel-control-prev-icon,
+         .carousel-control-next-icon {
+    background-color: #000000; /* Cambia #ff0000 por el color que desees */
+  }
+
